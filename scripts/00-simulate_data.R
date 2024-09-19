@@ -1,8 +1,8 @@
 #### Preamble ####
 # Purpose: Simulates data
-# Author: Rohan Alexander
+# Author: Abdullah Motasim
 # Date: 19 September 2024
-# Contact: rohan.alexander@utoronto.ca
+# Contact: abdullah.motasim@mail.utoronto.ca
 # License: MIT
 # Pre-requisites: None
 # Any other information needed? None

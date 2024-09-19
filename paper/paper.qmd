@@ -1,12 +1,12 @@
 ---
-title: "My title"
+title: "Toronto Marriage Rates After Covid-19"
 subtitle: "My subtitle if needed"
 author: 
-  - Rohan Alexander
+  - Abdullah Motasim
 thanks: "Code and data are available at: LINK."
 date: today
 date-format: long
-abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
+abstract: "This paper aims to analyze the imapact of marriage rates in Toronto after the Covid-19 pandemic. The data was sourced from the open data toronto. We found a disturbance in the marriage rates after Covid-19. The results from this study can be used to determine the impacts on human relations due to isolation."
 format: pdf
 number-sections: true
 bibliography: references.bib
@@ -34,11 +34,11 @@ The remainder of this paper is structured as follows. @sec-mydatasection
 
 # Data {#sec-mydatasection}
 
-Some of our data is of penguins (@fig-marriage), from @palmerpenguins.
+We can create a plot to see the number of marriage licenses over the years (@fig-marriage). as seen from the graph there is a disturbance in the number of marriage licences after Covid-19 @palmerpenguins.
 
 ```{r}
 #| label: fig-marriage
-#| fig-cap: Bills of penguins
+#| fig-cap: Marriages over the years in Toronto
 #| echo: false
 
 data |> 
